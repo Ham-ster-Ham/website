@@ -1,5 +1,6 @@
 body {
   background-image: url("images/evening_sky.jpg");
+  background-size: cover;
   background-color: #FFFFFF;
   color: Black;
   font-family: 'Courier New', Courier, monospace;
