@@ -8,3 +8,19 @@ body {
   color: Black;
   font-family: 'Courier New', Courier, monospace;
 }
+
+a:link {
+  color: Black;
+}
+
+a:visited {
+  color: Black;
+}
+
+a:hover {
+  color: whitesmoke;
+}
+
+a:active {
+  color: #3e0037;
+}
