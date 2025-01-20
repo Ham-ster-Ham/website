@@ -6,11 +6,12 @@ body {
   background-repeat: no-repeat;
   background-color: #000000;
   color: Black;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Courier New', Courier, monospace, arial;
 }
 
 a:link {
   color: Black;
+  font-weight: bold;
 }
 
 a:visited {
@@ -23,4 +24,15 @@ a:hover {
 
 a:active {
   color: #3e0037;
+}
+
+ul
+{
+  width: 30rem;
+  height: auto;
+  box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2); 
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, .15);
+  
+  backdrop-filter: blur(5px);
 }
