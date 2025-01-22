@@ -50,8 +50,6 @@ a:active {
 
   display: inline-block;
   position: relative;
-  bottom: 76px;
-  left: 5rem;
   
   backdrop-filter: blur(5px);
 }
